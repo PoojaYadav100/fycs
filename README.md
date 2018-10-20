@@ -1,0 +1,2 @@
+# fycs
+github practical
