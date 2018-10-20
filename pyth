@@ -1,0 +1,11 @@
+fystud=["amit","sumit","rajiv"]
+print(fystud)
+print(fystud[1:2])
+fystud.append("nitin")
+fystud.remove("sumit")
+print(fystud)
+fystud.sort()
+print(fystud)
+print(len(fystud))
+print(max(fystud))
+print(min(fystud))
